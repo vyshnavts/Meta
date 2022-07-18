@@ -1,0 +1,18 @@
+{
+   "Entities": [
+       {
+           "skybox": {
+               "color": {
+                   "blue": 255,
+                   "green": 255,
+                   "red": 255
+               },
+               "url": https://github.com/vyshnavts/Meta/raw/main/download%20(1).jfif
+           },
+           "skyboxMode": "enabled",
+           "type": "Zone",
+           "userData": "{\"grabbableKey\":{\"grabbable\":false}}"
+       }
+   ],
+   "Id": ENTITY_ID,
+}
